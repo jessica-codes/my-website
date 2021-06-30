@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: coffee
+theme: earth
 day_night: true
 font: ''
 font_size: L
@@ -26,10 +26,6 @@ contact_links:
     icon_pack: fab
     name: Say hi!
     link: 'https://www.linkedin.com/in/jessica-zheng-a2b16213b/'
-  - icon: gmail
-    icon_pack: fab
-    name: Skype Me
-    link: 'jess.zheng18@gmail.com'
 
 
 # Site header
