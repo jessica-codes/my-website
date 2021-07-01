@@ -1,6 +1,7 @@
 ---
 title: Hi, I'm Jessica!
-role: Professor of Artificial Intelligence
+role: I'm a Commerce and Computer Science student at UNSW with an interest in
+  Marketing and Product Design.
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
