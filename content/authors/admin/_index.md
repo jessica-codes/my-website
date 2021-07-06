@@ -1,10 +1,10 @@
 ---
 title: Hi, I'm Jessica!
-role: I'm a 2nd year Commerce and Computer Science student at UNSW with an
-  interest in Marketing and Product Design.
-bio: "I like to... "
-interests:
-  - YouTube
+role: I'm an aspiring Product Designer and 2nd year Commerce and Computer
+  Science student at UNSW.
+bio: I am passionate about people and designing useful, equitable and enjoyable
+  products that improve the experiences of all.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -12,14 +12,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jessica-zheng-a2b16213b/
-organizations:
-  - name: UNSW
-    url: ""
+organizations: []
 education:
   courses:
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Google UX Design Professional Certificate
+      institution: Google
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
